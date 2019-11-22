@@ -1,0 +1,67 @@
+[
+  {
+    "startdate": "07-23-2018",
+    "enddate": "07-30-2019",
+    "title": "Technical Associate at Development Bank of Singapore",
+    "shorttitle": "Senior Officer",
+    "type": "job",
+    "glyph": "star",
+    "description": "<ul><li>Part of Recon that  automatically reconciles data between various sources.</li><li>Email Segregation so as to identify the domain of the sender.</li></ul>"
+  },
+   
+  {
+    "startdate": "09-15-2014",
+    "enddate": "05-20-2018",
+    "title": "BE in Computer Science",
+    "shorttitle": "Bachelors at CBIT",
+    "type": "education",
+    "glyph": "star",
+    "description": "<ul><li>Bachelors in Computer Science</li><li>Stood among the top 5 in undergraduation</li></ul>"
+  },{
+    "startdate": "08-15-2019",
+    "enddate": "12-05-2021(tentative)",
+    "title": "Masters in Computer Science",
+    "shorttitle": "Graduation at ASU",
+    "type": "education",
+    "glyph": "star",
+    "description": "<ul><li>Pursuing Masters in Computer Science</li><li>Working on a project on hadoop and Spark</li><li>Working on a project on D3</li></ul>"
+  },
+  {
+    "startdate": "12-20-2014",
+    "enddate": "",
+    "title": "Part of NSS",
+    "shorttitle": "Coordinator",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Conducted various social service activities as a part of NSS CBIT</li><li>Organised Blood Donation Camps, Health Check Camps etc.</li></ul>"
+  },
+  {
+    "startdate": "04-12-2018",
+    "enddate": "04-13-2018",
+    "title": "Secured 8th position in Smart India Hackathon 2018",
+    "shorttitle": "SIH 2018",
+    "type": "education",
+    "glyph": "star",
+    "description": "<ul><li>Participated in SIH conducted by government of India</li><li>Built an application to solve real world problems that could help people access the facilities faster.</li></ul>"
+  },
+  {
+    "startdate": "08-01-2016",
+    "enddate": "05-01-2018",
+    "title": "Member of IEEE",
+    "shorttitle": "Part of Organizing Committee",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Organized various workshops on different domains</li><li>Worked as campassador for coding contest by IEEE</li></ul>"
+  }
+,
+{
+  "startdate": "12-01-2017",
+  "enddate": "05-01-2018",
+  "title": "Google Facilitator",
+  "shorttitle": "Facilitator for Android by Google",
+  "type": "other",
+  "glyph": "star",
+  "description": "<ul><li>Organized and taught Android to students by conducting multiple sessions.</li></ul>"
+}
+
+]
